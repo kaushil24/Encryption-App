@@ -8,7 +8,7 @@ As a part of my 7th Sem CNS Project, I have made a small python UI for encryptin
 
 # Modifications:
 <hr>
-* You can add your own endcyption and decryption algorithms by modifying the content of .\Algo\cns.py file.
-* You just need to change the body of function ```encpt()``` to add your own encryption finction and to add your own decryption function, change the content of ```dcpt()```.
-* YOU NEED NOT CHANGE ANYTHING IN THE UI.
+* You can add your own endcyption and decryption algorithms by modifying the content of .\Algo\cns.py file. <br>
+* You just need to change the body of function ```encpt()``` to add your own encryption finction and to add your own decryption function, change the content of ```dcpt()```. <br>
+* YOU NEED NOT CHANGE ANYTHING IN THE UI. <br>
 * __NOTE__ : It is compulsory for both the functions to return string in order for the code to work properly. 
