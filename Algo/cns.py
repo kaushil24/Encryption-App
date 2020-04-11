@@ -2,6 +2,7 @@ class cns():
 
 
   def encpt(pt, key):
+    pt+=' '
     pt = [ord(i) for i in pt]
     key = [ord(i) for i in key]
     cry = [i^key[0] for i in pt]
